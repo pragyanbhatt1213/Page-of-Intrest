@@ -1,0 +1,69 @@
+body{
+  background-color: LightCyan;
+}
+.c1{
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: Cyan;
+  border-width: 1px;
+  border-left: 5px;
+  font-family: "Courier New",
+    /* monospaace makes equal space in th para, comes under font family*/
+    Courier,monospace;
+  text-align: center;
+}
+.f1 {
+  font-size: 1.4em;
+}
+.c2 {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: cyan;
+  border-width: 1px;
+  border-left: 5px;
+  font-family: "Courier New",
+    /* monospaace makes equal space in th para, comes under font family*/
+    Courier,monospace;
+  text-align: center;
+  font-size: 1.4em;
+}
+.c3 {
+  /*A blue box with rounded corners div*/
+  background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+  text-align: left;
+  
+}
+.table {
+   /*A blue div that covers the full widith of the page*/
+  background-color: DarkTurquoise;
+  width: 100%;
+  margin: 0px 0px 0px -9px;
+  padding: 2px 9px 0px 0px;
+  color: GhostWhite;
+  font-family: Verdana, Geneva, sans-serif;
+}
+.table h3{
+  text-align: center;
+  
+}
+img {
+  width: 30em;
+  border: solid;
+  border-width: 1px;
+  border : GhostWhite;
+  
+}
+table {
+  margin: auto;
+}
+.l {
+  text-align: center;
+  
+}
